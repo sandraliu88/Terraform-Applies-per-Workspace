@@ -1,5 +1,5 @@
 **terraform-applies-per-workspace**
-A quick script to count total applies per workspace in your Terraform Cloud for Business organization
+<ol>A quick script to count total applies per workspace in your Terraform Cloud for Business organization</ol>
 
 **Pre-reqs:**
 <ol>
