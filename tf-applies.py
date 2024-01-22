@@ -51,8 +51,8 @@ def get_total_applies_per_workspace(api_token, organization_name, start_date, en
 
 if __name__ == "__main__":
     # Replace with your Terraform Cloud API token and organization name
-    api_token = "UcyouqwOwc3jSQ.atlasv1.teR7F1rL81ydw6BOtCwdjBeDHcT03jo5jF779V8NeXKwjq6FNZYxcqz5GeWE81cqyzw"
-    organization = "sandraliu-training"
+    api_token = "--"
+    organization = "--"
     start_date = datetime(2023, 12, 1)
     end_date = datetime(2023, 12, 31)
 
